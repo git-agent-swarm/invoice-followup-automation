@@ -1,0 +1,7 @@
+invoice_id,customer_name,email,amount,due_date,status
+INV-1001,Cedar & Stone Roofing,billing@cedarstone.example,1850.00,2026-06-01,unpaid
+INV-1002,Red River Fitness,owner@redriverfit.example,620.00,2026-06-20,unpaid
+INV-1003,Wichita Falls Dental,office@wfdental.example,1240.50,2026-06-11,unpaid
+INV-1004,Lone Star HVAC,admin@lonestarhvac.example,980.00,2026-05-24,unpaid
+INV-1005,Texoma Auto Detail,hello@texomaauto.example,410.00,2026-06-30,unpaid
+INV-1006,Northside Lawn Care,accounts@northsidelawn.example,775.00,2026-06-07,paid
