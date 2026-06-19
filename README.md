@@ -57,6 +57,14 @@ python -m unittest discover -s tests
 - Push overdue accounts into a CRM follow-up stage.
 - Schedule the job every morning and email the dashboard to the owner.
 
+## Public Proof Context
+
+Built by Kobey Dev Services as a small-business admin automation proof.
+
+- Portfolio: https://kobeydev.com
+- GitHub org: https://github.com/git-agent-swarm
+- Google Developer profile: https://me.developers.google.com/u/116492041557080639666
+
 ## License
 
 MIT
